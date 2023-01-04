@@ -172,7 +172,7 @@ Unecessary commits are eliminated and resetted by executing
 
 All the commits can be listed in chronological order by executing the command
 
-```git log```
+    git log
 
 ## GIT Forking 
 
